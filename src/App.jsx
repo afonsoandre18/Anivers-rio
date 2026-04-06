@@ -80,7 +80,7 @@ function RSVPPage() {
         </p>
         <div style={S.detailBox}>
           <div style={S.detailRow}><span>📅</span><span>18 de abril de 2026 · 15h</span></div>
-          <div style={S.detailRow}><span>📍</span><span>Av. Getúlio Vargas, 908 — 10º andar · Patos de Minas - MG</span></div>
+          <div style={S.detailRow}><span>📍</span><span>Av. Getúlio Vargas, 908 — 4º andar · Patos de Minas - MG</span></div>
         </div>
       </div>
     </div>
