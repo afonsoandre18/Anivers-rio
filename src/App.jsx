@@ -100,7 +100,7 @@ function RSVPPage() {
         <div style={S.names}>Camila e Fernanda</div>
         <div style={S.detailBox}>
           <div style={S.detailRow}><span>📅</span><span>18 de abril de 2026 · 15h</span></div>
-          <div style={S.detailRow}><span>📍</span><span>Av. Getúlio Vargas, 908 — 10º andar<br/>Patos de Minas - MG</span></div>
+          <div style={S.detailRow}><span>📍</span><span>Av. Getúlio Vargas, 908 — 4º andar<br/>Patos de Minas - MG</span></div>
         </div>
 
         <div style={S.divider} />
